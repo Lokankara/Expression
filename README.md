@@ -23,3 +23,5 @@
 ` mvn clean install -X `
 
 `java -jar ./testing/target/testing-1.0-SNAPSHOT.jar`
+
+[![Java CI with Maven](https://github.com/Lokankara/Expression/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/Lokankara/Expression/actions/workflows/maven.yml)
